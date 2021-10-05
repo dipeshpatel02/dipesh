@@ -1,4 +1,4 @@
-# MIU-Bus-Tracking-System-Project
+# MIU Bus Tracking System Project
 * Bus Routes and Schedule 
 * Real Time Tracking 
 * User Can Get alert from this device 
